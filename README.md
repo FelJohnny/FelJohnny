@@ -6,13 +6,16 @@
   <a href="https://github.com/FelJohnny">
   <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api?username=FelJohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="168em" width="378em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelJohnny&layout=compact&langs_count=7&theme=dark"/>
+
 </div>
   
 <div style="display: inline_block"><br>
   <h4>Language and Tools</h4>
   <img align="center" alt="Johnny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
   <img align="center" alt="Johnny-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
   </div>
   
   ##
