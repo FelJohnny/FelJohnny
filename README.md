@@ -2,7 +2,7 @@
 
 ##
 
-<div align="center" style="display: inline_block">
+<div align="start" style="display: inline_block">
   <a href="https://github.com/FelJohnny">
   <img height="170em" width="380em" src="https://github-readme-stats.vercel.app/api?username=FelJohnny&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
@@ -16,10 +16,7 @@
   <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Johnny-Figma" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
   <img align="center" alt="Johnny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  
-  
-  
-  </div>
+</div>
   
   ##
   
